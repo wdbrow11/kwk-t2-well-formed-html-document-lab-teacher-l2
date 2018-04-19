@@ -43,3 +43,4 @@ the changes instantly.
 ## Resources
 
 * [W3S — HTML `<!DOCTYPE>` Declaration](https://www.w3schools.com/tags/tag_doctype.asp)
+<p data-visibility='hidden'>KWK-T2 Well-Formed HTML Document Lab</p>
